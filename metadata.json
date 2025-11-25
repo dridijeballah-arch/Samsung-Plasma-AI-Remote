@@ -1,0 +1,7 @@
+{
+  "name": "Samsung Plasma AI Remote",
+  "description": "Une télécommande universelle intelligente pour les téléviseurs Samsung Plasma et Legacy, assistée par l'IA Gemini pour la commande vocale et l'aide contextuelle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
