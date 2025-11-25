@@ -1,4 +1,4 @@
-const CACHE_NAME = 'plasma-remote-v1';
+const CACHE_NAME = 'plasma-remote-v2';
 
 // Liste des ressources externes à mettre en cache pour le mode hors ligne
 const EXTERNAL_ASSETS = [
